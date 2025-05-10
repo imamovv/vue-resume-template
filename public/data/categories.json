@@ -7,7 +7,8 @@
                 "en": {"nav_label": "Home"},
                 "es": {"nav_label": "Inicio"},
                 "fr": {"nav_label": "Accueil"},
-                "zh": {"nav_label": "主页"}
+                "zh": {"nav_label": "主页"},
+                "ru": {"nav_label": "Главная"}
             }
         },
 
@@ -18,7 +19,8 @@
                 "en": {"nav_label": "Background"},
                 "es": {"nav_label": "Historial"},
                 "fr": {"nav_label": "Historique"},
-                "zh": {"nav_label": "背景"}
+                "zh": {"nav_label": "背景"},
+                "ru": {"nav_label": "Основное"}
             }
         },
 
@@ -29,7 +31,8 @@
                 "en": {"nav_label": "Showcase"},
                 "es": {"nav_label": "Vitrina"},
                 "fr": {"nav_label": "Vitrine"},
-                "zh": {"nav_label": "展示"}
+                "zh": {"nav_label": "展示"},
+                "ru": {"nav_label": "Примеры"}
             }
         },
 
@@ -40,7 +43,8 @@
                 "en": {"nav_label": "More"},
                 "es": {"nav_label": "Más"},
                 "fr": {"nav_label": "Plus"},
-                "zh": {"nav_label": "查看更多"}
+                "zh": {"nav_label": "查看更多"},
+                "ru": {"nav_label": "Больше"}
             }
         }
     ]

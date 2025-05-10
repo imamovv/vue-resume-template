@@ -37,9 +37,9 @@
                 <!-- Textarea -->
                 <div class="form-group form-group-textarea mb-md-0">
                     <textarea class="form-control"
-                              id="message"
-                              placeholder="Message *"
-                              maxlength="2048"
+                              :id="message"
+                              :placeholder="`${localizeFromStrings('message')} *`"
+                              :maxlength="2048"
                               @input="_onInputChanged"
                               @focusin="_onFocusIn('message')"
                               @focusout="_onFocusOut('message')"

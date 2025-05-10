@@ -26,6 +26,12 @@
             "name": "中文",
             "id": "zh",
             "flagUrl": "images/flags/zh.png"
+        },
+
+        {
+            "name": "Русский",
+            "id": "ru",
+            "flagUrl": "images/flags/ru.png"
         }
     ]
 }

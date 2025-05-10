@@ -1,11 +1,12 @@
 {
-    "name": "Roy Sheppard",
+    "name": "Imamov Ilnur",
     "profilePictureUrl": "images/pictures/avatar.png",
 
     "locales": {
         "en": {
             "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
+            "role": "Web developer",
+            "name": "Imamov Ilnur"
         },
 
         "es": {
@@ -21,24 +22,30 @@
         "zh": {
             "credits": "设计：<strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
             "role": "用户体验设计师"
+        },
+
+        "ru": {
+            "credits": "Разработано <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Web-разработчик",
+            "name": "Ильнур Имамов"
         }
     },
 
     "contactOptions": [
         {
             "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
-            "valueShort": "Cupertino – CA",
+            "value": "РФ, г. Казань",
+            "valueShort": "РФ, г. Казань",
             "faIcon": "fa-regular fa-map",
             "href": null
         },
 
         {
             "id": "email",
-            "value": "roy.sheppard@genius.com",
-            "valueShort": "roy.sheppard@genius.com",
+            "value": "imamovv@gmail.com",
+            "valueShort": "imamovv@gmail.com",
             "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:roy.sheppard@genius.com"
+            "href": "mailto:imamovv@gmail.com"
         },
 
         {
@@ -51,10 +58,10 @@
 
         {
             "id": "github",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "github.com/imamovv",
+            "valueShort": "github.com/imamovv",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
+            "href": "https://github.com/imamovv"
         },
 
         {
@@ -75,10 +82,26 @@
 
         {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "+7 (939) 734-05-57",
+            "valueShort": "+7 (939) 734-05-57",
             "faIcon": "fa-brands fa-whatsapp",
-            "href": "tel:1234567890"
+            "href": "tel:89397340557"
+        },
+
+        {
+            "id": "telegram", 
+            "value": "@imamovilnur",
+            "valueShort": "@imamovilnur",
+            "faIcon": "fa-brands fa-telegram",
+            "href": "https://t.me/imamovilnur"
+        },
+
+        {
+            "id": "vk",
+            "value": "https://vk.com/id206179695",
+            "valueShort": "https://vk.com/id206179695",
+            "faIcon": "fa-brands fa-vk",
+            "href": "https://vk.com/id206179695"
         }
     ]
 }

@@ -30,6 +30,12 @@
                     "title_short": "欢迎！",
                     "description": null,
                     "nav_label": "关于"
+                },
+                "ru": {
+                    "title": "Добро пожаловать в *моё резюме!*",
+                    "title_short": "Добро пожаловать!",
+                    "description": null,
+                    "nav_label": "Обо мне"
                 }
             }
         },
@@ -64,6 +70,12 @@
                     "title_short": null,
                     "description": "一瞥我的学术轨迹和成就。",
                     "nav_label": "教育背景"
+                },
+                "ru": {
+                    "title": "*Образование*",
+                    "title_short": null,
+                    "description": "Взгляд на мой обучающий путь и достижения.",
+                    "nav_label": "Образование"
                 }
             }
         },
@@ -98,6 +110,12 @@
                     "title_short": null,
                     "description": "探索我所掌握和发展的多样技能:",
                     "nav_label": "技能"
+                },
+                "ru": {
+                    "title": "*Навыки*",
+                    "title_short": null,
+                    "description": "Исследование разнообразия навыков, полученных и разработанных:",
+                    "nav_label": "Навыки"
                 }
             }
         },
@@ -132,6 +150,12 @@
                     "title_short": null,
                     "description": "了解我的工作经验和职业之旅。",
                     "nav_label": "工作经历"
+                },
+                "ru": {
+                    "title": "*Карьера*",
+                    "title_short": null,
+                    "description": "Обзор моего профессионального опыта и карьерного пути.",
+                    "nav_label": "Карьера"
                 }
             }
         },
@@ -166,6 +190,12 @@
                     "title_short": null,
                     "description": "浏览我最近的一些项目和创意作品。",
                     "nav_label": "作品集"
+                },
+                "ru": {
+                    "title": "Мои *портфолио*",
+                    "title_short": null,
+                    "description": "Обзор моих последних проектов и созданных работ.",
+                    "nav_label": "Портфолио"
                 }
             }
         },
@@ -200,6 +230,12 @@
                     "title_short": null,
                     "description": "作为一名UX设计师，我的旅程充满了对学习和技能提升的坚定执着，以及对设计活动的热情参与。因此，我汇总了一份显著奖项和认证的列表：",
                     "nav_label": "成就"
+                },
+                "ru": {
+                    "title": "Достижения *Профессиональные*",
+                    "title_short": null,
+                    "description":"A glimpse into my academic trajectory and accomplishments.",
+                    "nav_label": "Достижения"
                 }
             }
         },
@@ -234,6 +270,12 @@
                     "title_short": null,
                     "description": "这基本上是我空闲时间的安排：",
                     "nav_label": "兴趣爱好"
+                },
+                "ru": {
+                    "title": "*Хобби* и интересы",
+                    "title_short": null,
+                    "description": "Это, вообще говоря, как я провожу свою свободное время:",
+                    "nav_label": "Хобби"
                 }
             }
         },
@@ -268,7 +310,14 @@
                     "title_short": null,
                     "description": "如果您有任何需要，请随时与我联系！",
                     "nav_label": "联系方式"
+                },
+                "ru": {
+                    "title": "*Свяжитесь* со мной",
+                    "title_short": null,
+                    "description": "Пожалуйста, не переживайте, когда вы захотите связаться со мной!",
+                    "nav_label": "Контакты"
                 }
+
             }
         }
     ]

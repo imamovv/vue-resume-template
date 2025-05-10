@@ -8,14 +8,14 @@
                 "order_items_by": "id",
                 "order_items_sort": "asc",
                 "contact_list_ids": ["address", "email", "phone"],
-                "contact_circles_ids": ["instagram", "facebook", "linkedin", "github"]
+                "contact_circles_ids": ["instagram", "facebook", "linkedin", "github", "telegram", "vk"]
             },
             "items": [
                 {
                     "id": 1,
                     "locales": {
                         "en": {
-                            "description": "I've been a UX designer for 8 years, crafting user-friendly interfaces that feel natural, intuitive, and seamless across different devices. My passion lies in designing digital experiences that not only look great but also function effortlessly, making interactions smoother and more enjoyable."
+                            "description": "Developer with 4 years of experience. I love clean, elegant code that just works. My background spans multiple languages and platforms, but what drives me is a passion for building technology that solves real problems. I thrive on turning complexity into simplicity and ideas into functional products. I also enjoy collaborating with inspiring people—because the best solutions emerge where experience, creativity, and enthusiasm meet."
                         },
 
                         "es": {
@@ -28,6 +28,10 @@
 
                         "zh": {
                             "description": "我做 UX 设计已经 8 年了，专注于打造直观、自然且在不同设备上都流畅的用户界面。我热衷于设计既美观又高效的数字体验，让交互变得更加顺畅和愉悦。"
+                        },
+
+                        "ru": {
+                            "description": "Разработчик с 4-летним опытом. Люблю код, который работает чётко и элегантно. За плечами — опыт на разных языках и платформах, но главное — страсть к созданию технологий, которые решают реальные задачи. Мне нравится превращать сложное в простое, а идеи — в работающие продукты. А ещё — общаться с интересными людьми, потому что лучшие решения рождаются там, где встречаются опыт, креатив и азарт."
                         }
                     }
                 },
@@ -49,6 +53,9 @@
 
                         "zh": {
                             "description": "我坚信优秀的设计应该提升人们的生活，让他们能够轻松、自信地使用科技。无论是网站、应用还是复杂系统，我都致力于打造能真正与用户产生深层连接的产品。让我们携手合作，将想法变为现实，创造非凡的作品！"
+                        },
+                        "ru" : {
+                            "description": "Great products happen when developers, designers, and business truly understand each other."
                         }
                     }
                 }
