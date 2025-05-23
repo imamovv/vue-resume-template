@@ -40,7 +40,7 @@
                     "id": 2,
                     "locales": {
                         "en": {
-                            "description": "I believe that good design should enhance people's lives, helping them navigate technology with ease and confidence. Let’s work together to bring ideas to life and build something truly amazing!"
+                            "description": "Great products happen when developers, designers, and business truly understand each other."
                         },
 
                         "es": {
@@ -55,7 +55,7 @@
                             "description": "我坚信优秀的设计应该提升人们的生活，让他们能够轻松、自信地使用科技。无论是网站、应用还是复杂系统，我都致力于打造能真正与用户产生深层连接的产品。让我们携手合作，将想法变为现实，创造非凡的作品！"
                         },
                         "ru" : {
-                            "description": "Great products happen when developers, designers, and business truly understand each other."
+                            "description": "Верю, что лучший продукт создаётся там, где разработчики, дизайнеры и бизнес говорят на одном языке."
                         }
                     }
                 }
